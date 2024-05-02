@@ -7,7 +7,7 @@ Este repositório contém um simples gerador de senha construído utilizando HTM
 - Geração de senhas aleatórias com diferentes níveis de complexidade e extensão.
 - Interface intuitiva.
 
-## Como Usar
+## Uso
 
 1. Clone este repositório para o seu computador ou faça o download dos arquivos.
 2. Abra o arquivo `index.html` em qualquer navegador web.
