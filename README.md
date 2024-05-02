@@ -13,3 +13,6 @@ Este repositório contém um simples gerador de senha construído utilizando HTM
 2. Abra o arquivo `index.html` em qualquer navegador web.
 3. Escolha as opções de geração de senha desejadas e clique no botão para gerar a senha.
 4. Copie a senha gerada para a área de transferência e utilize-a conforme necessário.
+
+## Imagem 
+![](https://github.com/marcosguida/gerador_senha/blob/main/image.png?raw=true)
