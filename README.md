@@ -16,3 +16,6 @@ Este repositório contém um simples gerador de senha construído utilizando HTM
 
 ## Imagem 
 ![](https://github.com/marcosguida/gerador_senha/blob/main/image.png?raw=true)
+
+## License
+License under Apache 2.0: https://www.apache.org/licenses/LICENSE-2.0
