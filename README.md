@@ -1,4 +1,4 @@
-# Gerador de Senha
+<h1 align="center" style="font-weight: bold;"> Gerador de Senha </h1>
 
 Este repositório contém um simples gerador de senha construído utilizando HTML, CSS e JavaScript. Este gerador de senha permite aos usuários criar senhas fortes e seguras, com milhares de combinações, para proteger suas contas online.
 
